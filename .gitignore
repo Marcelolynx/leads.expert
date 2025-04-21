@@ -1,0 +1,16 @@
+# Go
+bin/
+*.exe
+*.out
+*.test
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+
+# Swagger
+docs/swagger.json
+docs/swagger.yaml
